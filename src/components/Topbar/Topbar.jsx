@@ -26,12 +26,12 @@ export default function Topbar() {
             </div>
 
             <div className="topbarIconItem">
-                <Person/>
+                <Chat/>
                 <span className="topbarIconBadge">1</span>
             </div>
 
             <div className="topbarIconItem">
-                <Person/>
+                <Notifications/>
                 <span className="topbarIconBadge">1</span>
             </div>
             <img src="/assets/person/6.jpg" alt="" className="topbarImage" />
