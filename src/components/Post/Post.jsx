@@ -2,6 +2,7 @@ import React from 'react'
 import './post.css'
 import { MoreVert } from '@mui/icons-material'
 import {Users} from "../../dummyData"
+import {Posts} from "../../dummyData" 
 
 export default function Post({post}) {
     const user = Users.filter(u=>u.id---1)
@@ -14,7 +15,8 @@ export default function Post({post}) {
         <div className="postTop">
             <div className="postTopLeft">
                 <img className='postProfileImg' src="/assets/person/14.jpg" alt="" />
-                <span className="postUserName">Safran Kaush</span>
+                {/* <span className="postUserName">{Users.filter((u) =>u.id === Posts.userId)[0].username}</span> */}
+                <span className="postUserName">Safrah Nikil</span>
                 <span className="postTime">{post.date}</span>
             </div>
             <div className="postTopRight">
