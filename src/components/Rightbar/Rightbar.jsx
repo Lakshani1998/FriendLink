@@ -12,7 +12,77 @@ export default function rightbar() {
           <img src="./assets/ad.png" alt="" className="rightbarAd" />
           <h4 className="rightbarTitle">Online Friends</h4>
           <ul className="rightbarFriendList">
-            
+            <li className="rightFriend">
+              <div className="rightbarProfileImgContainer">
+                <img src="./assets/person/11.jpg" alt="" className="rightbarProfileImg" />
+                <span className="rightbarOnline"></span>
+              </div>
+                <span className="rightbarUserName">Laseen Cham</span>
+            </li>
+
+            <li className="rightFriend">
+              <div className="rightbarProfileImgContainer">
+                <img src="./assets/person/11.jpg" alt="" className="rightbarProfileImg" />
+                <span className="rightbarOnline"></span>
+              </div>
+                <span className="rightbarUserName">Laseen Cham</span>
+            </li>
+
+            <li className="rightFriend">
+              <div className="rightbarProfileImgContainer">
+                <img src="./assets/person/11.jpg" alt="" className="rightbarProfileImg" />
+                <span className="rightbarOnline"></span>
+              </div>
+                <span className="rightbarUserName">Laseen Cham</span>
+            </li>
+
+            <li className="rightFriend">
+              <div className="rightbarProfileImgContainer">
+                <img src="./assets/person/11.jpg" alt="" className="rightbarProfileImg" />
+                <span className="rightbarOnline"></span>
+              </div>
+                <span className="rightbarUserName">Laseen Cham</span>
+            </li>
+
+            <li className="rightFriend">
+              <div className="rightbarProfileImgContainer">
+                <img src="./assets/person/11.jpg" alt="" className="rightbarProfileImg" />
+                <span className="rightbarOnline"></span>
+              </div>
+                <span className="rightbarUserName">Laseen Cham</span>
+            </li>
+
+            <li className="rightFriend">
+              <div className="rightbarProfileImgContainer">
+                <img src="./assets/person/11.jpg" alt="" className="rightbarProfileImg" />
+                <span className="rightbarOnline"></span>
+              </div>
+                <span className="rightbarUserName">Laseen Cham</span>
+            </li>
+
+            <li className="rightFriend">
+              <div className="rightbarProfileImgContainer">
+                <img src="./assets/person/11.jpg" alt="" className="rightbarProfileImg" />
+                <span className="rightbarOnline"></span>
+              </div>
+                <span className="rightbarUserName">Laseen Cham</span>
+            </li>
+
+            <li className="rightFriend">
+              <div className="rightbarProfileImgContainer">
+                <img src="./assets/person/11.jpg" alt="" className="rightbarProfileImg" />
+                <span className="rightbarOnline"></span>
+              </div>
+                <span className="rightbarUserName">Laseen Cham</span>
+            </li>
+
+            <li className="rightFriend">
+              <div className="rightbarProfileImgContainer">
+                <img src="./assets/person/11.jpg" alt="" className="rightbarProfileImg" />
+                <span className="rightbarOnline"></span>
+              </div>
+                <span className="rightbarUserName">Laseen Cham</span>
+            </li>
           </ul>
       </div>
     </div>
